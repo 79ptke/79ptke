@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=320&section=header&text=Jung da hee%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Jungdahee%20render&fontSize=90&animation=fadeIn)
 
 <!--
 **79ptke/79ptke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
