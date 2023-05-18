@@ -2,6 +2,14 @@
 
 <p align="center"><b>✉ Email ✉</b></p>
 <p align="center">79ptke@naver.com</p>
+<br>
+<p align="center"><b>💡 Skill 💡</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+</p>
+
 <!--
 **79ptke/79ptke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
