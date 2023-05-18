@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Jung%20da%20hee%20&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=GitHub%20Profile&fontAlignY=40&descSize=20&descAlign=72)
 
+<p align="center"><b>✉ Email ✉</b></p>
+<p align="center">79ptke@naver.com</p>
 <!--
 **79ptke/79ptke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
