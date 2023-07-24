@@ -37,6 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=79ptke&layout=compact&theme=transparent)
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=79ptke&layout=compact&theme=transparent)
